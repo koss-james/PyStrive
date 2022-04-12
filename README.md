@@ -12,7 +12,7 @@ This repo is intended to be utilized by members of the Strive Consulting Nationa
   - Intro to Pandas and pandas dataframes
 
 ### Pre-Reqs
-  - Installation of Anaconda
+  - Install Anaconda:
     - Windows: https://repo.anaconda.com/archive/Anaconda3-2021.11-Windows-x86_64.exe
     - Mac: https://repo.anaconda.com/archive/Anaconda3-2021.11-MacOSX-x86_64.pkg
     - Linux: https://repo.anaconda.com/archive/Anaconda3-2021.11-Linux-x86_64.sh
