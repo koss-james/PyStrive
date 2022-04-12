@@ -4,11 +4,11 @@ This repo is intended to be utilized by members of the Strive Consulting Nationa
 
 ## Part 1
   - Overview of Python Notebooks
-  - Ways in which notebooks can be useful and why you should use them
+  - Ways in which notebooks can be useful to data pros
   - Fundamental notebook functionalities
   - Python packages and how to install them
-  - Overview of Python virtual environments
-  - Example use case of demonstrating the use of SQLAlchemy for basic CRUD operations
+  - Overview of Python virtual environments and why they are important
+  - Example use case demonstrating use of SQLAlchemy for basic CRUD operations
   - Intro to Pandas and pandas dataframes
 
 ### Pre-Reqs
